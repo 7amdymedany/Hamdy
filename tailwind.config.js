@@ -19,7 +19,7 @@ export default {
           "url('https://preline.co/assets/svg/examples-dark/polygon-bg-element.svg')",
       },
       colors: {
-        primary: "#b033fd",
+        primary: "#FEE101",
       },
     },
   },
