@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
-  "homepage": "https://github.com/7amdymedany/portfolio",
+  "homepage": "https://github.com/7amdymedany/Hamdy.git",
   "devDependencies": {
     "autoprefixer": "^10.4.17",
     "gh-pages": "^6.3.0",
