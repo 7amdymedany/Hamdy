@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   base: '/Hamdy/',
   build: {
-    outDir: 'dist',
+    outDir: './dist',
   }
 })
 
